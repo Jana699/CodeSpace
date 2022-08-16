@@ -22,7 +22,6 @@ header {
   border-radius: 50%;
   border: 4px solid #87BAD0;
   margin-top: 20px;
-
 }
 
 .main{
@@ -126,9 +125,4 @@ footer {
 
 
 
-
-#element2{
-  position : relative;
-  left : 10px;
-}
 
